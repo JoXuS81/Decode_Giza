@@ -1,2 +1,2 @@
 # Decode_Giza
-PhD Theme Proposal
+Jovan Stanisic - PhD Theme Proposal
